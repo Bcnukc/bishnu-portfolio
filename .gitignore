@@ -1,0 +1,12 @@
+node_modules
+.next
+.next-build
+out
+.env*
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+# Claude
+.claude/
+.claude.json
+CLAUDE.md
